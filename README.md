@@ -1,0 +1,1 @@
+# avoiding_associated_enum_values_to_avoid_state_specific_optionals
